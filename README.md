@@ -16,6 +16,8 @@ Kullanım :
 
 -Oyunu başlatın.W,A,S,D,Space ve Shift tuşlarını deneyin
 
+NOT : Hareket yeteneği kazandırdığınız objede ki PlayerScript'e Surface Check objesini(zıplamasını istediğiniz zemin objesini) atmalısınız.Her oyunda zemin farklı olabileceği için onu otomatize etmek istemedim.
+
 
 
 Örnek Video:
